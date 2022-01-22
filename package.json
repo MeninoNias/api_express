@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "body-parser": "^1.19.1",
     "express": "^4.17.2"
   },
   "name": "dio_api_express",
